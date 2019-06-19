@@ -12,6 +12,6 @@ export {}
  */
 
 /**
- * @suppress {nonStandardJsDocs}
- * @typedef {import('./test').Test} _idio.Test
- */
+  * @suppress {nonStandardJsDocs}
+  * @typedef {import('..').Test} _idio.Test
+  */
