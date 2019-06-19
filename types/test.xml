@@ -1,0 +1,10 @@
+<types namespace="_idio">
+  <type name="Test" desc="The test.">
+    <prop boolean name="propA" default="true">
+      Property A.
+    </prop>
+    <prop string name="propB">
+      Property B.
+    </prop>
+  </type>
+</types>
