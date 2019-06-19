@@ -2,8 +2,7 @@
   "name": "@idio/vscode-jsdoc-1",
   "version": "0.0.0-pre",
   "description": "The test of jsdoc",
-  "main": "build/index.js",
-  "module": "src/index.js",
+  "main": "src/index.js",
   "scripts": {
     "t": "zoroaster -a",
     "test": "yarn t test/spec test/mask",
